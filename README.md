@@ -1,4 +1,7 @@
 # Smart Medical Diagnosis
+Demo Video Link:
+https://www.kapwing.com/videos/65f6a4681f99562b59b6e799
+https://www.kapwing.com/videos/65f6a4a2b2ce5a50176509f9
 
 Smart Medical Diagnosis is a project aimed at assisting medical professionals and individuals in diagnosing various medical conditions using medical images. The project utilizes state-of-the-art machine learning techniques to classify medical images and provide accurate diagnoses for conditions such as Brain Tumor, Bone Fracture, Kidney Stones, Pneumonia, Eye Infection, and Skin Infection.
 
